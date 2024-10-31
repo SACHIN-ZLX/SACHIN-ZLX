@@ -1,7 +1,5 @@
-<img src=Coding.gif alt="CODING GIF">
-
-<div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer+🌐;.....+Espresso+Yourself+☕"
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Sachin;Developer,"
 />
 </div>
  
