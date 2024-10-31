@@ -4,7 +4,7 @@
 
 
 
-Welcome to My Code Playground! 🌟
+<h2>Welcome to My Code Playground! 🌟</h2>
 
 I am a passionate Software Developer dedicated to crafting innovative digital solutions and exploring the latest technologies. My solid technical foundation from Sheridan College, combined with practical experience, allows me to deliver efficient and effective applications.
 
@@ -31,3 +31,4 @@ My portfolio reflects a diverse range of projects, from interactive web applicat
 I am eager to collaborate and connect with fellow developers and technology enthusiasts!
 
 make this code beautiful before starti the welcome i need a line above it
+</div>
