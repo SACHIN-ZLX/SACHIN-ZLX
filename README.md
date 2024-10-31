@@ -1,9 +1,8 @@
-<div align="center">
+<div <div align="center" style="position: relative;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Sachin;Full+stack+and+Web+Developer"/>
-    <br/>
-
- 
-<a href="https://github.com/SACHIN-ZLX"><img src="https://img.shields.io/github/followers/SACHIN-ZLX.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
+    <a href="https://github.com/SACHIN-ZLX" style="position: absolute; top: 50px; left: 0; transform: translateX(-50%);">
+        <img src="https://img.shields.io/github/followers/SACHIN-ZLX.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left">
+    </a>
 
 
 <h2>Welcome to My Code Playground! 🌟</h2>
