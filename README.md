@@ -12,13 +12,17 @@ I am a passionate Software Developer dedicated to crafting innovative digital so
 Currently:
 
 -Student in Advanced Diploma in Computer Systems Technology – Software Development @ Sheridan College, Oakville ✨
+
 -Playwright Automation Tester @ Skill Squirrel, Mississauga 🧪
+
 -Aspiring Developer with hands-on experience in web and software projects 💻
 
 Technical Focus:
 
 Full-Stack Development (React, Node.js, Next.js, Java, Spring Boot, RESTful APIs)
+
 Cloud Technologies (AWS, Docker, Microservices)
+
 Data Integration and Management (Talend, SQL, Database Security)
 
 I am actively working on projects that integrate technology with real-world needs, showcasing my ability to develop scalable applications and solutions.
