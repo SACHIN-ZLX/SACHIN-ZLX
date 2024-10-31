@@ -3,7 +3,7 @@
 
 
 
-<div align="left" style="font-family: 'Times New Roman', Times, serif;">>
+<div align="left" style="font-family: 'Times New Roman', Times, serif;">
 <h3>Links</h3>
 <a href="https://github.com/SACHIN-ZLX" style="position: absolute; top: 20px; right: -10px;">
         <img src="https://img.shields.io/github/followers/SACHIN-ZLX.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me on GitHub">
