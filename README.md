@@ -71,5 +71,12 @@ Technical Focus:
 
 </div>
 
+<div align="center">
+
+| <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SACHIN-ZLX&hide=dockerfile&theme=radical" alt="Top Languages" align="center"/> |
+| :-: |
+
+</div>
+
 
  
