@@ -3,9 +3,9 @@
     <a href="https://github.com/SACHIN-ZLX" style="position: absolute; top: 20px; right: -10px;">
         <img src="https://img.shields.io/github/followers/SACHIN-ZLX.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me on GitHub">
     </a>
-    <br/> <!-- Line break for better spacing -->
+    <br/>  
     <a href="mailto:sachinachu516@gmail.com" style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="Email me">
+<img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="Email">
     </a>
 </div>
 
