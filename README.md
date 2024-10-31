@@ -1,7 +1,7 @@
 <div align="center" style="position: relative; margin-bottom: 20px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Sachin;Full+stack+and+Web+Developer"/>
 
-
+</div>
 <div align="left" style="font-family: 'Times New Roman', Times, serif;">
     <h3>Links</h3>
     <a href="https://github.com/SACHIN-ZLX" style="margin-right: 10px;">
