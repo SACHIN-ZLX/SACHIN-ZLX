@@ -32,7 +32,7 @@ Technical Focus:
 
 **Languages**
 
-![My Skills](https://skillicons.dev/icons?i=java,js,html,css,typescript,sql&perline=10)
+![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,springboot,csharp,c++,react,nodejs,linux&perline=10)
 
 **Frameworks**
 
@@ -44,11 +44,12 @@ Technical Focus:
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,git,github,gitlab,linux&perline=10)
+![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,git,github,gitlab&perline=10)
 
 **Cloud**
 
 ![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=10)
+
 
 
 </div>
