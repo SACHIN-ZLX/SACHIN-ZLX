@@ -55,5 +55,4 @@ Technical Focus:
 ![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=10)
 
 
-
 </div>
