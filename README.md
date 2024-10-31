@@ -1,13 +1,16 @@
-<div align="center" style="position: relative; margin-bottom: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Sachin;Full+stack+and+Web+Developer"/>
-    <a href="https://github.com/SACHIN-ZLX" style="position: absolute; top: 20px; right: -10px;">
-        <img src="https://img.shields.io/github/followers/SACHIN-ZLX.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me on GitHub">
-    </a>
-    <br/>  
-    <a href="mailto:sachinachu516@gmail.com" style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="Email me">
-    </a>
+<div align="center" style="margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Sachin;Full+stack+and+Web+Developer"/>
+    
+    <div style="margin-top: 10px;">
+        <a href="https://github.com/SACHIN-ZLX" style="margin-right: 10px;">
+            <img src="https://img.shields.io/github/followers/SACHIN-ZLX.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me on GitHub">
+        </a>
+        <a href="mailto:sachinachu516@gmail.com">
+            <img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="Email me">
+        </a>
+    </div>
 </div>
+
 
 
 <h2>Welcome to My Code Playground! 🌟</h2>
