@@ -27,4 +27,28 @@ Technical Focus:
 
 - Data Integration and Management (Talend, SQL, Database Security)
 
+
+<h2 id="lang">Skills</h2>
+
+**Languages**
+
+![My Skills](https://skillicons.dev/icons?i=java,js,html,css,typescript,sql&perline=10)
+
+**Frameworks**
+
+![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs&perline=10)
+
+**Databases**
+
+![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=10)
+
+**Tools**
+
+![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,git,github,gitlab,linux&perline=10)
+
+**Cloud**
+
+![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=10)
+
+
 </div>
