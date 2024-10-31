@@ -27,11 +27,4 @@ Technical Focus:
 
 -Data Integration and Management (Talend, SQL, Database Security)
 
-I am actively working on projects that integrate technology with real-world needs, showcasing my ability to develop scalable applications and solutions.
-
-My portfolio reflects a diverse range of projects, from interactive web applications to data-driven solutions.
-
-I am eager to collaborate and connect with fellow developers and technology enthusiasts!
-
-make this code beautiful before starti the welcome i need a line above it
 </div>
