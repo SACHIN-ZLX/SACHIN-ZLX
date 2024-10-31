@@ -2,8 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Sachin;Full+stack+and+Web+Developer"/>
 
 
-<h3>Quick Links</h3>
+
 <div align="left">
+<h3>Links</h3>
 <a href="https://github.com/SACHIN-ZLX" style="position: absolute; top: 20px; right: -10px;">
         <img src="https://img.shields.io/github/followers/SACHIN-ZLX.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me on GitHub">
     <a href="mailto:sachinachu516@gmail.com" style="margin-top: 10px;">
