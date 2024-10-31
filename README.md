@@ -12,13 +12,7 @@
     </a>
 </div>
 
- 
-
-
-
-
-
-<h2>Welcome to My Code Playground! 🌟</h2>
+ <h2>Welcome to My Code Playground! 🌟</h2>
 
 I am a passionate Software Developer dedicated to crafting innovative digital solutions and exploring the latest technologies. My solid technical foundation from Sheridan College, combined with practical experience, allows me to deliver efficient and effective applications.
 
