@@ -46,7 +46,7 @@ Technical Focus:
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,git,github,gitlab,eclipse&perline=10)
+![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,git,github,gitlab,eclipse,visualstudio,talend&perline=10)
 
  
 
